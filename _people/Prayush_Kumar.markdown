@@ -2,13 +2,13 @@
 name: Prayush Kumar
 lastname: Kumar
 group: academic_staff
-position: Postdoctoral Fellow
-institution: Cornell University
+position: Assistant Professor
+institution: International Centre for Theoretical Sciences - TIFR
 advisor:
-phone: 647-470-2521
-email:
+phone: +91 735-572-8862
+email: prayush@icts.res.in
 address:
-specialties: Application of numerical relativity merger simulations to Advanced LIGO searches
+specialties: Application of Numerical Relativity Simulations to Advanced LIGO searches
 ---
 
 ##### Biography
